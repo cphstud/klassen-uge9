@@ -1,7 +1,6 @@
 # Uge9: Arrays 
 ## 
 torsdag d 26/2 - Recap and Arrays
-fredag d 27/2 - Arrays continued
 
 0) Tjek ind
 
@@ -10,14 +9,13 @@ fredag d 27/2 - Arrays continued
 - DrawYouOwnBox (Trello)
 - Læringsveje
 
+fredag d 27/2 - Arrays continued
 1) intro til Arrays
-- Gennemgang af bogen
-- Gennemgang af opgaverne
+- Gennemgang af bogen + TestOpgaver
+- Gennemgang af bogens opgaver
 - OrderFlowers (split)
-- Value and reference
 
 3) Hands on arrays
 - fill with ints
 - search
-- compare
-
+- slim (unique)
