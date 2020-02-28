@@ -16,4 +16,5 @@ torsdag d 26/2 - Recap and Arrays
 - Gennemgang af bogen + TestOpgaver
 - Gennemgang af bogens opgaver (i grupper og fælles)
 
+- work at google
 - slim (unique)
