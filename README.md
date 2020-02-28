@@ -9,13 +9,11 @@ torsdag d 26/2 - Recap and Arrays
 - DrawYouOwnBox (Trello)
 - Læringsveje
 
-fredag d 27/2 - Arrays continued
-1) intro til Arrays
-- Gennemgang af bogen + TestOpgaver
-- Gennemgang af bogens opgaver
-- OrderFlowers (split)
 
-3) Hands on arrays
-- fill with ints
-- search
+###fredag d 27/2 - Arrays continued
+
+2) intro til Arrays
+- Gennemgang af bogen + TestOpgaver
+- Gennemgang af bogens opgaver (i grupper og fælles)
+
 - slim (unique)
